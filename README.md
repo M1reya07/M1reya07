@@ -1,5 +1,10 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=M1reya07&color=blueviolet)
+
+![M1reya07's Stats](https://github-readme-stats.vercel.app/api?username=M1reya07&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![M1reya07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=M1reya07&theme=vue-dark&hide_border=true)
+
+![M1reya07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1reya07&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **M1reya07/M1reya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
