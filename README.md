@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=M1reya07&color=blueviolet)
 <!--
 **M1reya07/M1reya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
