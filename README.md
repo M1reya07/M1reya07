@@ -19,20 +19,20 @@ Aquí tienes un vistazo de las herramientas y lenguajes con los que trabajo:
 
 | Proyecto      | Descripción | Tecnologías |
 |---------------|-------------|-------------|
-| **[Seguridad y Alta Disponibilidad]((https://github.com/M1reya07/SAD))** | Configuración avanzada de firewall con reglas iptables. | Nessus, Clara |
-| **[Implantación de Aplicaciones Web]((https://github.com/M1reya07/IAW))** | Instalación y configuración de servidores web en entornos Windows y Linux. | XAMPP, Odoo|
+| **[Seguridad y Alta Disponibilidad]((https://github.com/M1reya07/SAD))** | Auditorías de seguridad con Nessus y CLARA para evaluar vulnerabilidades y cumplimiento normativo. | Nessus, Clara |
+| **[Implantación de Aplicaciones Web]((https://github.com/M1reya07/IAW))** | Despliegue e integración de servidores web en entornos Windows y Linux utilizando herramientas como XAMPP y Odoo. | XAMPP, Odoo|
 
 ---
 
 ### 📬 **Conéctate conmigo**
 <div align="center">
-  <a href="[https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/mireya-fuentes-perez-0488b2339/)">
+  <a href="(https://www.linkedin.com/in/mireya-fuentes-perez-0488b2339/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mireyafuentesperez@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://tu-blog.com">
+  <a href=["https://m1reya07.github.io/portfolio/]">
     <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/>
   </a>
 </div>
