@@ -1,3 +1,4 @@
+![Contador de visitas](https://komarev.com/ghpvc/?username=M1reya07&color=blue&style=flat)
 ## 🌟 Sobre mí
 ¡Hola! Soy **Mireya**, estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** y apasionada por el mundo de la tecnología. Actualmente me dedico a explorar soluciones creativas en administración de sistemas, redes y automatización de procesos.
 
@@ -18,16 +19,8 @@ Aquí tienes un vistazo de las herramientas y lenguajes con los que trabajo:
 
 | Proyecto      | Descripción | Tecnologías |
 |---------------|-------------|-------------|
-| **[Firewall ASIR](https://github.com/miusuario/firewall-asir)** | Configuración avanzada de firewall con reglas iptables. | Bash, Linux |
-| **[Servidor Web Comparativo](https://github.com/miusuario/servidor-web)** | Instalación y configuración de servidores web en entornos Windows y Linux. | Apache, IIS |
-| **[Gestor de Bases de Datos](https://github.com/miusuario/sgbd)** | Guía y scripts para configurar MySQL y Squirrel. | MySQL, Squirrel |
-
----
-
-### ✨ Filosofía de trabajo
-- **Curiosidad:** La tecnología siempre está en movimiento, y me encanta aprender algo nuevo cada día.
-- **Practicidad:** Prefiero soluciones eficientes que realmente funcionen.
-- **Colaboración:** Siempre estoy abierta a contribuir en proyectos interesantes o compartir ideas.
+| **[Seguridad y Alta Disponibilidad]((https://github.com/M1reya07/SAD))** | Configuración avanzada de firewall con reglas iptables. | Nessus, Clara |
+| **[Implantación de Aplicaciones Web]((https://github.com/M1reya07/IAW))** | Instalación y configuración de servidores web en entornos Windows y Linux. | XAMPP, Odoo|
 
 ---
 
