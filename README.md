@@ -29,7 +29,7 @@ Aquí tienes un vistazo de las herramientas y lenguajes con los que trabajo:
   <a href="https://www.linkedin.com/in/mireya-fuentes-perez-0488b2339/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mireyafuentesperez@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://m1reya07.github.io/portfolio/">
